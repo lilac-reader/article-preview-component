@@ -4,3 +4,4 @@ body{font-size:13px; font-family: 'Manrope', sans-serif;}
 .container{display:flex;}
 .dresser-image{width:270px;
 height:270px;}
+.preview h1{font-family: 'Manrope',sans-serif; font-weight:700;}
