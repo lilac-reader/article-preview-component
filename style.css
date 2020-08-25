@@ -3,7 +3,6 @@ body{font-size:13px; font-family: 'Manrope', sans-serif;}
 .attribution a { color: hsl(228, 45%, 44%); }
 .container{display:flex;width:735px; height:275px;}
 .dresser-image{min-width:270px;
-min-height:270px;background-image:url("images/drawers.jpg")}
-
-.preview{display:inline-block;padding-left:35px;}
-.preview h1{font-family: 'Manrope',sans-serif; font-weight:700; color:#4E5765;}
+min-height:270px;background-image:url("images/drawers.jpg");background-size:cover;}
+.preview{display:inline-block;padding-left:35px;color:#6e8098;}
+.preview h1{font-family: 'Manrope',sans-serif; font-weight:700; color:#6e8098;font-size:20px;}
